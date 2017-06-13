@@ -1,0 +1,8 @@
+#counterVal{
+    height: 50px;
+    width: 50px
+}
+
+#decrement, #increment{
+    margin:10px
+}
